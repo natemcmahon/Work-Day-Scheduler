@@ -11,5 +11,5 @@ A simple calendar application which displays todays date at the top, and then an
 The Work Day Scheduler web page can be accessed at the following URL:
 https://natemcmahon.github.io/Work-Day-Scheduler
 
-## Reference
+## Screenshot
 ![image](https://github.com/natemcmahon/Work-Day-Scheduler/assets/67451299/a0cada83-ec59-4873-a7fc-fc9027d03cfb)
